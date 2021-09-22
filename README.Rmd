@@ -1,0 +1,25 @@
+---
+output: github_document
+---
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+# test-actions
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/ericward-noaa/test-actions/workflows/R-CMD-check/badge.svg)](https://github.com/ericward-noaa/test-actions/actions)
+<!-- badges: end -->
+
+The goal of test-actions is to ...
+
+```{r echo=FALSE}
+knitr::include_graphics("plot.png")
+```
+
